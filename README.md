@@ -9,7 +9,7 @@
 2. 点击这个按钮跳转到 missav.ws 中对应影片的播放页
 
 ### Userscripts/RemoveMissavPop.js
-1. 移除 missav.ws 中影片播放按钮上覆盖的广告，点击播放按钮直接播放影片
+1. 移除 missav.ws 中覆盖在播放按钮上的广告，点击播放按钮直接播放影片，**不会跳到广告页面**
 
 ## 使用说明
 
