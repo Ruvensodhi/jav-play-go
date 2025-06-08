@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         Remove @click="pop()" Ad Hijack Layer
+// @name         removeMissavPopAd for iOS safari browser
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Removes ad hijack divs that trigger pop() when clicking on video
 // @author       https://github.com/aizhimou
 // @match        *://missav.ws/*
+// @match        *://missav.ai/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
