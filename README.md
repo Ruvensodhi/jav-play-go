@@ -18,10 +18,10 @@
 1. 安装 [Userscripts](https://itunes.apple.com/us/app/userscripts/id1463298887)，打开 Userscripts，设置一个存放脚本文件的目录
 2. 下载本项目 `/Userscripts` 文件夹中的两个脚本文件，放到设置的文件夹中
 3. 打开 Safari，进入 javdb.com 中随意一个影片详情页（最好是旧一点的影片，以防 missav 中还没有这个影片），查看左下角的拼图图标，点开图标看 Userscripts，查看对应的脚本是否生效
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
-<img src="assets/IMG_9336.PNG" style="width:50%; height: auto;">
-<img src="assets/IMG_9337.png" style="width:50%; height: auto;">
-</div>
+<p align="center">
+  <img src="assets/IMG_9336.PNG" width="45%" />
+  <img src="assets/IMG_9337.png" width="45%" />
+</p>
 4. 脚本生效后 javdb.com 影片详情页面右下角会有一个粉色的 `MissAV` 按钮，点击这个按钮进入 missav.ws 对应的播放页面
 5. 同样检查这个页面的脚本是否生效，如果脚本生效，点击播放按钮影片会立即开始播放，而不会跳到广告页面 ![missav script](assets/IMG_9339.jpeg)
 
@@ -31,7 +31,7 @@
 
 1. 安装 [1Blocker](https://1blocker.com/)，按照操作提示开启广告拦截，即可屏蔽掉绝大多数广告
 2. 1Blocker -> 自定义规则 -> 拦截元素 -> 新规则 -> 填入以下 CSS 选择器：`.app-desktop-banner,.subheader,.top-meta,#footer` 可以让 javdb.com 在移动端显示效果更好
-![拦截规则](assets/IMG_9335.PNG)
+<img src="assets/IMG_9335.PNG" width="45%" />
 
 ## 使用效果
 
