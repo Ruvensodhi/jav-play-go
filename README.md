@@ -23,7 +23,8 @@
   <img src="assets/IMG_9337.png" width="45%" />
 </p>
 4. 脚本生效后 javdb.com 影片详情页面右下角会有一个粉色的 `MissAV` 按钮，点击这个按钮进入 missav.ws 对应的播放页面
-5. 同样检查这个页面的脚本是否生效，如果脚本生效，点击播放按钮影片会立即开始播放，而不会跳到广告页面 ![missav script](assets/IMG_9339.jpeg)
+5. 同样检查这个页面的脚本是否生效，如果脚本生效，点击播放按钮影片会立即开始播放，而不会跳到广告页面
+<img src="assets/IMG_9339.jpeg" width="45%" />
 
 #### 进阶优化（可选，推荐）
 
@@ -31,7 +32,10 @@
 
 1. 安装 [1Blocker](https://1blocker.com/)，按照操作提示开启广告拦截，即可屏蔽掉绝大多数广告
 2. 1Blocker -> 自定义规则 -> 拦截元素 -> 新规则 -> 填入以下 CSS 选择器：`.app-desktop-banner,.subheader,.top-meta,#footer` 可以让 javdb.com 在移动端显示效果更好
-<img src="assets/IMG_9335.PNG" width="45%" />
+<p align="center">
+  <img src="assets/IMG_9341.jpeg" width="45%" />
+  <img src="assets/IMG_9335.PNG" width="45%" />
+</p>
 
 ## 使用效果
 
