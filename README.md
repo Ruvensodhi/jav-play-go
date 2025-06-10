@@ -37,7 +37,7 @@
   <img src="assets/IMG_9335.PNG" width="45%" />
 </p>
 
-### Android (推荐 [Via](https://github.com/tuyafeng/Via))
+## Android (推荐 [Via](https://github.com/tuyafeng/Via))
 
 1. 安装 [Via](https://github.com/tuyafeng/Via) 浏览器
 2. 下载 `Userscripts/JavdbJump2Missav.js` 和 `Userscripts/removeMissavPopAd_Via.js` 两个脚本
@@ -47,3 +47,4 @@
 ## 使用效果
 
 1. [iOS Sarai 浏览器使用效果录屏](assets/ScreenRecording_06-08-2025_22-40-06_compressed.mp4)
+1. [Android Via 浏览器使用效果录屏](assets/screen_record_25-06-10-13-05-54.mp4)
